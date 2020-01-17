@@ -1,8 +1,6 @@
 ---
 title: "First stat545 rmarkdown"
-output: 
-  html_document: 
-    keep_md: yes
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
